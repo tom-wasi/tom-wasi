@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tom-wasi aka Tomasz Wasielewski.
 - 👀 I’m interested in music and all types of knowledge.
-- 🌱 I’m currently learning C#, .NET, Java and Microsoft Azure.
+- 🌱 I’m currently learning C#, .NET, JavaScript.
 - 💞️ I’m looking to collaborate on any project you would want me to.
 - 📫 How to reach me -> tmszwasielewski@gmail.com
 
