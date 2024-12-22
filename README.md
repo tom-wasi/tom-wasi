@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @tom-wasi aka Tomasz Wasielewski.
-- 👀 I’m interested in music and learning everything i put my hands on.
-- 🌱 I’m currently learning Java Spring, JavaScript, React.
-- 💞️ I’m looking to collaborate on any project you would want me to.
-- 📫 How to reach me -> tmszwasielewski@gmail.com
+# Tomasz Wasielewski
 
-<!---
-tom-wasi/tom-wasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm Tomson,
+I'm a passionate backend engineer/fullstack developer.
+Looking to contribute to any open source projects.
+Below is a brief overview of my skills and projects.
+
+## Projects
+
+### Invoice Manager
+**Description:** 
+Tis' an app to store, manage and send
+invoices - tailored more for small and micro-companies, 
+where you get to interact with your accountant in person.
+It let's you store your invoices and send them to your 
+desired accountant through e-mail with .zip file 
+attachment and checks them as 'settled'.
+
+Backend: Spring Boot, postgres, Docker, JWT authentication, Amazon S3, MVCS architecture
+Frontend: React.js, ChakraUI
+** **
+
+### Writify
+**Description:** More details to come.
+
+## Contact
+
+Feel free to reach out to me via [tmszwasielewski@gmail.com](mailto:tmszwasielewski@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tomasz-wasielewski-258bb1256/)).
+
+## GitHub Stats
+
+![Tomasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-wasi&show_icons=true&theme=radical)
+
+Thank you for visiting my GitHub profile!
