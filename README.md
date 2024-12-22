@@ -27,8 +27,4 @@ Frontend: React.js, ChakraUI
 
 Feel free to reach out to me via [tmszwasielewski@gmail.com](mailto:tmszwasielewski@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tomasz-wasielewski-258bb1256/)).
 
-## GitHub Stats
-
-![Tomasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tom-wasi&show_icons=true&theme=radical)
-
 Thank you for visiting my GitHub profile!
