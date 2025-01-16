@@ -12,7 +12,7 @@ Below is a brief overview of my skills and projects.
 Tis' an app to store, manage and send
 invoices - tailored more for small and micro-companies, 
 where you get to interact with your accountant in person.
-It let's you store your invoices and send them to your 
+The app let's you store your invoices and send them to your 
 desired accountant through e-mail with .zip file 
 attachment and checks them as 'settled'.
 
@@ -20,8 +20,9 @@ Backend: Spring Boot, postgres, Docker, JWT authentication, Amazon S3, MVCS arch
 Frontend: React.js, ChakraUI
 ** **
 
-### Writify
-**Description:** More details to come.
+## Anonymous Chatroom
+##Description:** More details to come.
+
 
 ## Contact
 
